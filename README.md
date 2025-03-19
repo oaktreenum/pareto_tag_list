@@ -12,7 +12,7 @@ python pareto_tag_list.py <pareto_front_file>
 - `<pareto_front_file>`: Path to the Rosetta Pareto front file.
 
 ## Output
-The script prints a space separated list of the design tags at the Pareto front to then use to extract those designs from a .silent file
+The script prints a space separated list of the design tags at the Pareto front to then use to extract those designs from a `.silent` file
 
 ## Author
 Allon Goldberg  
