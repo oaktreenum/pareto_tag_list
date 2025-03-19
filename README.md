@@ -15,15 +15,7 @@ python pareto_tag_list.py <pareto_front_file>
 The script prints a space separated list of the design tags at the Pareto front to then use to extract those designs from a .silent file
 
 ## Author
-Allon Goldberg
-Research Assistant
-Flatiron Institute, CCB, Biomolecular Design Group
+Allon Goldberg  
+Research Assistant  
+Flatiron Institute, CCB, Biomolecular Design Group  
 7/2024
-
-## Author
-[Your Name]  
-[Your Email]  
-[Your Website or GitHub]
-
-
-
